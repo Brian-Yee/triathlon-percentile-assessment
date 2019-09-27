@@ -21,6 +21,9 @@ F	finish	0.8027271352137116
 M	finish	0.15131064396573427
 ```
 
+Keep in mind that it is left to the reader to ensure that the input tabular data from their source
+is of the right format.
+
 NOTE
 ====
 
